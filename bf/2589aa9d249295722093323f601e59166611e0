@@ -1,0 +1,19 @@
+src/content/docs/zh-CN/reference/configuration.mdx
+  s_e43f5605d1c0fa::t_6e978b63f74c6c 1074-1085
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "bf2589aa9d249295722093323f601e59166611e0",
+  "prompts": {},
+  "sessions": {
+    "s_e43f5605d1c0fa": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "e6f30ee0-8db8-4868-b7a5-45f28ee6ce9e",
+        "model": "unknown"
+      },
+      "human_author": "Harald Reingruber <harald.reingruber@dedalus.com>"
+    }
+  }
+}
